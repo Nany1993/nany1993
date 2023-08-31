@@ -2,7 +2,7 @@
 ### También conocido como Nany1993 en GitHub 🌟
 
 ## ¿Quién soy? 🕵️‍♀️
-Soy una **Data Scientist** con experiencia en el rol de ***Data Analyst & Storytelling** 📊. Mi formación en **ingeniería industrial** y **Gerencia de proyectos** 🏭 me ha brindado más de 4 años de experiencia en procesos administrativos. Mi pasión por el análisis descriptivo y predictivo de datos me ha llevado a adquirir habilidades en diversas herramientas y lenguajes.
+Soy una **Data Scientist** con experiencia en el rol de **Data Analyst & Storytelling** 📊. Mi formación en **ingeniería industrial** y **Gerencia de proyectos** 🏭 me ha brindado más de 4 años de experiencia en procesos administrativos. Mi pasión por el análisis descriptivo y predictivo de datos me ha llevado a adquirir habilidades en diversas herramientas y lenguajes.
 
 ## ¿Qué hago? 🚀
 Actualmente, trabajo en un proyecto de analítica de datos como pasante en una empresa de explotación de arcilla y alquiler de maquinaria pesada. Mi objetivo es recolectar datos crudos, realizar el proceso de ETL con **Excel** 📊 y **Python** 🐍, generar métricas y KPIs a través de un dashboard interactivo con **Google Data Looker** 👁️‍🗨️. **Me encanta convertir datos en historias de éxito empresarial** 📈
